@@ -1,3 +1,5 @@
+# This code is provided by prof. Krzysztof Fidkowski during his class, MECHENG 523.
+
 import numpy as np
 
 def residual(xv):
